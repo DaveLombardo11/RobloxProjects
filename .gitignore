@@ -1,0 +1,13 @@
+# Rojo build output
+*.rbxlx.lock
+*.rbxm.lock
+
+# Wally packages
+Packages/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
